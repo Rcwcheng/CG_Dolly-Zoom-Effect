@@ -1,4 +1,4 @@
-# CG_Dolly-Zoom-Effect
+# OpengL-Dolly-Zoom-Effect
  Perform a dolly zoom effect for given 3D models.
  
 (1) press 'q' to turn dolly on & off </br>
